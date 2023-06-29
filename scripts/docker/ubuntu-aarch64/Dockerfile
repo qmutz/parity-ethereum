@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210416
 WORKDIR /build
 
 # install aarch64(armv8) dependencies and tools
